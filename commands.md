@@ -6,10 +6,10 @@
   - Definition: Git clone is a Git command line utility which is used to target an existing repository and create a clone, or copy of the target repository. Cloning a local or remote repository. Cloning a bare repository. Using shallow options to partially clone repositories.
   - Example
 - **Fork**
-  - Definition
+  - Definition: Creating a fork is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit Pull Requests to help make other people's projects better by offering your changes up to the original project.
   - Example
 - **Branch**
-  - Definition
+  - Definition: 
   - Example
 - **Commit**
   - Definition
