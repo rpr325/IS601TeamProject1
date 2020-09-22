@@ -33,6 +33,7 @@ Added
     - gitflow
     - README
     
+Changed
 - Fixed README.md file content and merged with master
 
 
