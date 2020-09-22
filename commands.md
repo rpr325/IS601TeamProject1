@@ -18,8 +18,8 @@
   - Definition
   - Example
 - **Checkout**
-  - Definition:
-  - Example
+  - Definition: Updates files in the working tree to match the version in the index or the specified tree. If no pathspec was given, git checkout will also update HEAD to set the specified branch as the current branch.
+  - Example ![git status](https://i.stack.imgur.com/Tiv4H.png)
 - **Push**
   - Definition: The git push command is used to upload local repository content to a remote repository. Pushing is how you transfer commits from your local repository to a remote repo. It's the counterpart to git fetch , but whereas fetching imports commits to local branches, pushing exports commits to remote branches.
   - Example ![git status](https://assets.website-files.com/5d514fd9493b0575f03520bd/5e2a1539b3437be8c9018c2f_cover-git-push-force2.PNG)
