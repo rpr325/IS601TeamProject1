@@ -51,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600810097141</updated>
-      <workItem from="1600810098361" duration="1171000" />
+      <workItem from="1600810098361" duration="1484000" />
     </task>
     <task id="LOCAL-00001" summary="writing the definition of a repo">
       <created>1600810551364</created>
@@ -74,7 +74,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600811261304</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="writing the definition of a branch">
+      <created>1600811331672</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600811331672</updated>
+    </task>
+    <task id="LOCAL-00005" summary="writing the definition of a commit">
+      <created>1600811488707</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600811488707</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,7 +109,9 @@
     <MESSAGE value="writing the definition of a repo" />
     <MESSAGE value="writing the definition of a clone" />
     <MESSAGE value="writing the definition of a fork" />
-    <option name="LAST_COMMIT_MESSAGE" value="writing the definition of a fork" />
+    <MESSAGE value="writing the definition of a branch" />
+    <MESSAGE value="writing the definition of a commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="writing the definition of a commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="490" y="314" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600810299083">
