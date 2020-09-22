@@ -12,10 +12,10 @@
   - Definition: A branch is essentially is a unique set of code changes with a unique name. Each repository can have one or more branches. The main branch is where all changes eventually get merged back into, and is called master.
   - Example
 - **Commit**
-  - Definition
+  - Definition: A commit, or "revision", is an individual change to a file (or set of files). It's like when you save a file, except with Git, every time you save it creates a unique ID (a.k.a. the "SHA" or "hash") that allows you to keep record of what changes we're made and by whom.
   - Example
 - **Merge**
-  - Definition
+  - Definition: 
   - Example
 - **Checkout**
   - Definition: Updates files in the working tree to match the version in the index or the specified tree. If no pathspec was given, git checkout will also update HEAD to set the specified branch as the current branch.
