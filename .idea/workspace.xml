@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c41f5003-0974-4e62-8452-47e95a483d6d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/commands.md" beforeDir="false" afterPath="$PROJECT_DIR$/commands.md" afterDir="false" />
-    </list>
+    <list default="true" id="c41f5003-0974-4e62-8452-47e95a483d6d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600810097141</updated>
-      <workItem from="1600810098361" duration="797000" />
+      <workItem from="1600810098361" duration="1171000" />
     </task>
     <task id="LOCAL-00001" summary="writing the definition of a repo">
       <created>1600810551364</created>
@@ -62,7 +60,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600810551364</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="writing the definition of a clone">
+      <created>1600810984239</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600810984239</updated>
+    </task>
+    <task id="LOCAL-00003" summary="writing the definition of a fork">
+      <created>1600811261304</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600811261304</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,7 +93,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="writing the definition of a repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="writing the definition of a repo" />
+    <MESSAGE value="writing the definition of a clone" />
+    <MESSAGE value="writing the definition of a fork" />
+    <option name="LAST_COMMIT_MESSAGE" value="writing the definition of a fork" />
   </component>
   <component name="WindowStateProjectService">
     <state x="490" y="314" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600810299083">
