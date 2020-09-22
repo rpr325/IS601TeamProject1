@@ -1,0 +1,37 @@
+# Git Commands & Terminology
+- Repository
+  - Definition
+  - Example
+- Clone
+  - Definition
+  - Example
+- Fork
+  - Definition
+  - Example
+- Branch
+  - Definition
+  - Example
+- Commit
+  - Definition
+  - Example
+- Merge
+  - Definition
+  - Example
+- Checkout
+  - Definition
+  - Example
+- Push
+  - Definition
+  - Example
+- Pull 
+  - Definition
+  - Example
+- Remote Add / Remove / Show
+  - Definition
+  - Example
+- Status
+  - Definition
+  - Example
+- Master Branch
+  - Definition
+  - Example
