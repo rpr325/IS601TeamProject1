@@ -1,5 +1,5 @@
 # Project Description
-Collaborative tools like Git, Docker, automated testing (For this project, you need to explain how the usage of Git, Docker, automated testing, and continuous integration can improve the productivity and competitiveness of a company.
+Collaborative tools like Git, Docker, automated testing are an nasset to organizations, because they allow for continuous remote productivity.    (For this project, you need to explain how the usage of Git, Docker, automated testing, and continuous integration can improve the productivity and competitiveness of a company.
 ## Git
 Git is the most commonly used version control system. Git tracks the changes you make to files, so you have a record of what has been done, and you can revert to specific versions should you ever need to. Git also makes collaboration easier, allowing changes by multiple people to all be merged into one source. 
 ## Docker
@@ -9,14 +9,18 @@ Automated testing is, well, automated. This differs from manual testing where a 
 ## Continuous Integration
 Continuous Integration (CI) is a development practice where developers integrate code into a shared repository frequently, preferably several times a day. Each integration can then be verified by an automated build and automated tests. While automated testing is not strictly part of CI it is typically implied.
 ## Activity Designations
-**Feature**:  Added definition of the term repository.
+**Feature**:  ex: Added definition of the term repository.
 
-**Fix**: Updated definition of repository
+**Fix**: ex: Updated definition of repository
 
-**Task**: Uploaded an image screenshot for a repository
+**Task**: ex: Uploaded an image screenshot for a repository
 ## Sources
 Gajda, W. (2013). Hosting git Git Repositories. Git Recipes, 279-325. doi:10.1007/978-1-4302-6104-9_11
 Why Docker? (n.d.). Retrieved September 23, 2020, from https://www.docker.com/why-docker
 Why Docker? (n.d.). Retrieved September 23, 2020, from https://www.docker.com/why-docker
 What is Automated Testing? (n.d.). Retrieved September 23, 2020, from https://smartbear.com/learn/automated-testing/what-is-automated-testing/
 Inc., C. (n.d.). Continuous Integration: What is CI? Testing, Software &amp; Process Tutorial. Retrieved September 23, 2020, from https://codeship.com/continuous-integration-essentials
+Atlassian. (n.d.). Gitflow Workflow: Atlassian Git Tutorial. Retrieved September 23, 2020, from https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+Atlassian. (n.d.). Git Remote: Atlassian Git Tutorial. Retrieved September 23, 2020, from https://www.atlassian.com/git/tutorials/syncing
+Book. (n.d.). Retrieved September 23, 2020, from https://git-scm.com/book/en/v2/Getting-Started-What-is-Git
+Gitglossary Documentation. (n.d.). Retrieved September 23, 2020, from https://git-scm.com/docs/gitglossary
