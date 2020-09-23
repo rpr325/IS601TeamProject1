@@ -13,7 +13,7 @@ Added / Changed / Removed
 Added / Changed / Removed
 - (Added description.md)
 - (Added sources)
-- (change item 3)
+- (Added definitions)
 
 # Roberto 2  - 09/22/2020
 Added
