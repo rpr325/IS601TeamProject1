@@ -10,10 +10,10 @@ Added / Changed / Removed
 - (change item 3)
 
 # Roberto 2  - 09/22/2020
-Added / Changed / Removed
-- (change item 1)
-- (change item 2)
-- (change item 3)
+Added
+- GitFlow introduction and work flow - Checkout, Push, Pull, Remote Add / Remove / Show and Master Branch
+- Git Commands & Terminology with examples
+- Index links add to README.md file
 
 # Roberto 1 - 09/21/2020
 Added
