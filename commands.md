@@ -34,3 +34,4 @@
 - **Master Branch**
   - Definition: A branch in **Git** is simply a lightweight movable pointer to one of these commits. The default branch name in **Git** is **master**. As you start making commits, you're given a **master** **branch** that points to the last commit you made. Every time you commit, the **master** **branch** pointer moves forward automatically.
    - Example ![Master Branch](https://res.cloudinary.com/practicaldev/image/fetch/s--4wcz_y0b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nqo6mgud5dzbmfpxzqkd.png)
+ 
