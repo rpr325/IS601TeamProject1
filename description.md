@@ -15,4 +15,7 @@ Automated testing is, well, automated. This differs from manual testing where a 
 
 **Task**: Uploaded an image screenshot for a repository
 ## Sources
-
+Gajda, W. (2013). Hosting git Git Repositories. Git Recipes, 279-325. doi:10.1007/978-1-4302-6104-9_11
+Why Docker? (n.d.). Retrieved September 23, 2020, from https://www.docker.com/why-docker
+Why Docker? (n.d.). Retrieved September 23, 2020, from https://www.docker.com/why-docker
+What is Automated Testing? (n.d.). Retrieved September 23, 2020, from https://smartbear.com/learn/automated-testing/what-is-automated-testing/

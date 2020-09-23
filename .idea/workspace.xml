@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c41f5003-0974-4e62-8452-47e95a483d6d" name="Default Changelist" comment="setting up examples">
+    <list default="true" id="c41f5003-0974-4e62-8452-47e95a483d6d" name="Default Changelist" comment="writing in description">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/description.md" beforeDir="false" afterPath="$PROJECT_DIR$/description.md" afterDir="false" />
     </list>
@@ -54,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600810097141</updated>
-      <workItem from="1600810098361" duration="6199000" />
+      <workItem from="1600810098361" duration="8014000" />
     </task>
     <task id="LOCAL-00001" summary="writing the definition of a repo">
       <created>1600810551364</created>
@@ -105,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600827261998</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="writing in description">
+      <created>1600830246480</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1600830246480</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,7 +137,8 @@
     <MESSAGE value="writing the definition of a commit" />
     <MESSAGE value="writing the definition of a merge" />
     <MESSAGE value="setting up examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="setting up examples" />
+    <MESSAGE value="writing in description" />
+    <option name="LAST_COMMIT_MESSAGE" value="writing in description" />
   </component>
   <component name="WindowStateProjectService">
     <state x="241" y="92" key="Vcs.Push.Dialog.v2" timestamp="1600827699767">
