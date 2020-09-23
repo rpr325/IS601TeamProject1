@@ -1,5 +1,5 @@
 # Project Description
-Collaborative tools like Git, Docker, automated testing are an nasset to organizations, because they allow for continuous remote productivity.    (For this project, you need to explain how the usage of Git, Docker, automated testing, and continuous integration can improve the productivity and competitiveness of a company.
+Collaborative tools like Git, Docker, automated testing are assets to organizations, because they allow for continuous remote productivity.
 ## Git
 Git is the most commonly used version control system. Git tracks the changes you make to files, so you have a record of what has been done, and you can revert to specific versions should you ever need to. Git also makes collaboration easier, allowing changes by multiple people to all be merged into one source. 
 ## Docker
