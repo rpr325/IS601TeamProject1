@@ -1,10 +1,10 @@
 # Git Commands & Terminology
 - **Repository**
   - Definition: A repository is a directory or storage space where your projects can live. Users shorten this to “repo.” It can be local to a folder on your computer, or it can be a storage space on GitHub or another online host. You can keep code files, text files, image files, you name it, inside a repository.
-  - Example ![clone](https://docs.github.com/assets/images/help/repository/remotes-url.png)
+  - Example ![clone]()
 - **Clone**
   - Definition: Git clone is a Git command line utility which is used to target an existing repository and create a clone, or copy of the target repository. Cloning a local or remote repository. Cloning a bare repository. Using shallow options to partially clone repositories.
-  - Example ![git status]()
+  - Example ![git status](https://docs.github.com/assets/images/help/repository/remotes-url.png)
 - **Fork**
   - Definition: Creating a fork is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit Pull Requests to help make other people's projects better by offering your changes up to the original project.
   - Example ![git status](https://)
@@ -16,10 +16,10 @@
   - Example ![git status](https://)
 - **Merge**
   - Definition: Merging is Git's way of putting a forked history back together again. The git merge command lets you take the independent lines of development created by git branch and integrate them into a single branch.
-  - Example ![git status](https://)
+  - Example ![git status](https://cdn-media-1.freecodecamp.org/images/VonhijTBQgjwtRXz31wLzF7iWDnDFk2o8EWi)
 - **Checkout**
   - Definition: Updates files in the working tree to match the version in the index or the specified tree. If no pathspec was given, git checkout will also update HEAD to set the specified branch as the current branch.
-  - Example ![git status](https://i.stack.imgur.com/Tiv4H.png)
+  - Example ![git status]()
 - **Push**
   - Definition: The git push command is used to upload local repository content to a remote repository. Pushing is how you transfer commits from your local repository to a remote repo. It's the counterpart to git fetch , but whereas fetching imports commits to local branches, pushing exports commits to remote branches.
   - Example ![git status](https://assets.website-files.com/5d514fd9493b0575f03520bd/5e2a1539b3437be8c9018c2f_cover-git-push-force2.PNG)

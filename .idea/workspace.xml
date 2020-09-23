@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c41f5003-0974-4e62-8452-47e95a483d6d" name="Default Changelist" comment="cleaning up description 3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c41f5003-0974-4e62-8452-47e95a483d6d" name="Default Changelist" comment="feature: adding example">
       <change beforePath="$PROJECT_DIR$/commands.md" beforeDir="false" afterPath="$PROJECT_DIR$/commands.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600810097141</updated>
-      <workItem from="1600810098361" duration="10936000" />
+      <workItem from="1600810098361" duration="11240000" />
     </task>
     <task id="LOCAL-00001" summary="writing the definition of a repo">
       <created>1600810551364</created>
@@ -147,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600834404707</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="feature: adding example">
+      <created>1600835185254</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1600835185254</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,7 +183,8 @@
     <MESSAGE value="feature: writing in sources" />
     <MESSAGE value="cleaning up description" />
     <MESSAGE value="cleaning up description 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="cleaning up description 3" />
+    <MESSAGE value="feature: adding example" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature: adding example" />
   </component>
   <component name="WindowStateProjectService">
     <state x="241" y="92" key="Vcs.Push.Dialog.v2" timestamp="1600834972805">
