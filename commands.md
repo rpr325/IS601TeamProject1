@@ -7,19 +7,19 @@
   - Example ![git status](https://docs.github.com/assets/images/help/repository/remotes-url.png)
 - **Fork**
   - Definition: Creating a fork is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit Pull Requests to help make other people's projects better by offering your changes up to the original project.
-  - Example ![git status](https://)
+  - Example ![git status](https://www.toolsqa.com/wp-content/gallery/git/1_Pull-Request.png)
 - **Branch**
   - Definition: A branch is essentially is a unique set of code changes with a unique name. Each repository can have one or more branches. The main branch is where all changes eventually get merged back into, and is called master.
-  - Example ![git status](https://)
+  - Example ![git status](https://miro.medium.com/max/823/1*uUpzVOpdFw5V-tJ_YvgFmA.png)
 - **Commit**
   - Definition: A commit, or "revision", is an individual change to a file (or set of files). It's like when you save a file, except with Git, every time you save it creates a unique ID (a.k.a. the "SHA" or "hash") that allows you to keep record of what changes we're made and by whom.
-  - Example ![git status](https://)
+  - Example ![git status](https://danielmiessler.com/images/git_branch_new_master.png)
 - **Merge**
   - Definition: Merging is Git's way of putting a forked history back together again. The git merge command lets you take the independent lines of development created by git branch and integrate them into a single branch.
   - Example ![git status](https://cdn-media-1.freecodecamp.org/images/VonhijTBQgjwtRXz31wLzF7iWDnDFk2o8EWi)
 - **Checkout**
   - Definition: Updates files in the working tree to match the version in the index or the specified tree. If no pathspec was given, git checkout will also update HEAD to set the specified branch as the current branch.
-  - Example ![git status]()
+  - Example ![git status](https://www.git-tower.com/learn/media/pages/git/faq/detached-head-when-checkout-commit/-246760908-1599575010/01-checkout-branch-not-commit.png)
 - **Push**
   - Definition: The git push command is used to upload local repository content to a remote repository. Pushing is how you transfer commits from your local repository to a remote repo. It's the counterpart to git fetch , but whereas fetching imports commits to local branches, pushing exports commits to remote branches.
   - Example ![git status](https://assets.website-files.com/5d514fd9493b0575f03520bd/5e2a1539b3437be8c9018c2f_cover-git-push-force2.PNG)

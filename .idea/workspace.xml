@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c41f5003-0974-4e62-8452-47e95a483d6d" name="Default Changelist" comment="feature: adding example">
+    <list default="true" id="c41f5003-0974-4e62-8452-47e95a483d6d" name="Default Changelist" comment="feature: adding merge example">
       <change beforePath="$PROJECT_DIR$/commands.md" beforeDir="false" afterPath="$PROJECT_DIR$/commands.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600810097141</updated>
-      <workItem from="1600810098361" duration="11240000" />
+      <workItem from="1600810098361" duration="11570000" />
     </task>
     <task id="LOCAL-00001" summary="writing the definition of a repo">
       <created>1600810551364</created>
@@ -153,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600835185254</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="feature: adding merge example">
+      <created>1600835576487</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1600835576487</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,7 +191,8 @@
     <MESSAGE value="cleaning up description" />
     <MESSAGE value="cleaning up description 3" />
     <MESSAGE value="feature: adding example" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature: adding example" />
+    <MESSAGE value="feature: adding merge example" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature: adding merge example" />
   </component>
   <component name="WindowStateProjectService">
     <state x="241" y="92" key="Vcs.Push.Dialog.v2" timestamp="1600834972805">
