@@ -25,13 +25,13 @@ The repository setup that we use and that works well with this branching model, 
 ## Workflow
 
 The overall flow of Gitflow is:
-1. A develop branch is created from master
-2. A release branch is created from develop
-3. Feature branches are created from develop
-4. When a feature is complete it is merged into the develop branch
-5. When the release branch is done it is merged into develop and master
-6. If an issue in master is detected a hotfix branch is created from master
-7. Once the hotfix is complete it is merged to both develop and master
+1. A *develop* branch is created from *master*
+2. A *release* branch is created from *develop*
+3. Feature *branches* are created from *develop*
+4. When a *feature* is complete it is merged into the *develop* branch
+5. When the *release* branch is done it is merged into *develop* and *master*
+6. If an issue in *master* is detected a hotfix branch is created from *master*
+7. Once the *hotfix* is complete it is merged to both *develop* and *master*
 
 Instead of a single master branch, this workflow uses two branches to record the history of the project. The master branch stores the official release history, and the develop branch serves as an integration branch for features. It's also convenient to tag all commits in the master branch with a version number.
 
