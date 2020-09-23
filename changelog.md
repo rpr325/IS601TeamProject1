@@ -8,18 +8,19 @@ Added / Changed / Removed
 - (change item 1)
 - (change item 2)
 - (change item 3)
-# Corey 1 - 09/21/2020
-Added / Changed / Removed
-- (Added description.md)
-- (Added/ updated project description)
-- (update changelog)
-- (added git, docker, automated testing, continuous integration tab)
 
 # Corey 2 - 09/22/2020
 Added / Changed / Removed
 - (Added description.md)
 - (Added sources)
 - (Added definitions)
+
+# Corey 1 - 09/21/2020
+Added / Changed / Removed
+- (Added description.md)
+- (Added/ updated project description)
+- (update changelog)
+- (added git, docker, automated testing, continuous integration tab)
 
 # Roberto 2  - 09/22/2020
 Added
