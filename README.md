@@ -6,7 +6,7 @@ Project Team
 - Corey Williams
 - Roberto Rutherford
 
-[changelog](http://example.com)
+[changelog](https://github.com/rpr325/IS601TeamProject1/blob/master/changelog.md)
 
 ## Project Navigation
 I. [Description](http://example.com)
