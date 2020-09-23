@@ -9,6 +9,12 @@ Added / Changed / Removed
 - (change item 2)
 - (change item 3)
 
+# Corey 1 - 09/21/2020
+Added / Changed / Removed
+- (Added description.md)
+- (Added sources)
+- (change item 3)
+
 # Roberto 2  - 09/22/2020
 Added
 - GitFlow introduction and work flow - Checkout, Push, Pull, Remote Add / Remove / Show and Master Branch
