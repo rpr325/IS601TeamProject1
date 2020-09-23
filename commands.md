@@ -7,7 +7,7 @@
   - Example ![git status](https://docs.github.com/assets/images/help/repository/remotes-url.png)
 - **Fork**
   - Definition: Creating a fork is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit Pull Requests to help make other people's projects better by offering your changes up to the original project.
-  - Example ![git status](https//www.toolsqa.com/wp-content/gallery/git/1_Pull-Request.png)
+  - Example ![git status]()
 - **Branch**
   - Definition: A branch is essentially is a unique set of code changes with a unique name. Each repository can have one or more branches. The main branch is where all changes eventually get merged back into, and is called master.
   - Example ![git status](https://miro.medium.com/max/823/1*uUpzVOpdFw5V-tJ_YvgFmA.png)
