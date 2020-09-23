@@ -1,22 +1,7 @@
 # Git Commands & Terminology
 - **Repository**
   - Definition: A repository is a directory or storage space where your projects can live. Users shorten this to “repo.” It can be local to a folder on your computer, or it can be a storage space on GitHub or another online host. You can keep code files, text files, image files, you name it, inside a repository.
-  - Example ![clone](https://www.vogella.com/tutorials/Git/img/git_remoterepo10.png)
-- **Clone** 
-  - Definition: Git clone is a Git command line utility which is used to target an existing repository and create a clone, or copy of the target repository. Cloning a local or remote repository. Cloning a bare repository. Using shallow options to partially clone repositories.
-  - Example ![git status](https://docs.github.com/assets/images/help/repository/remotes-url.png)
-- **Fork**
-  - Definition: Creating a fork is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit Pull Requests to help make other people's projects better by offering your changes up to the original project.
-  - Example ![git status](https://www.toolsqa.com/wp-content/gallery/git/1_Pull-Request.png)
-- **Branch**
-  - Definition: A branch is essentially is a unique set of code changes with a unique name. Each repository can have one or more branches. The main branch is where all changes eventually get merged back into, and is called master.
-  - Example ![git status](https://miro.medium.com/max/823/1*uUpzVOpdFw5V-tJ_YvgFmA.png)
-- **Commit**
-  - Definition: A commit, or "revision", is an individual change to a file (or set of files). It's like when you save a file, except with Git, every time you save it creates a unique ID (a.k.a. the "SHA" or "hash") that allows you to keep record of what changes we're made and by whom.
-  - Example ![git status](https://danielmiessler.com/images/git_branch_new_master.png)
-- **Merge**
-  - Definition: Merging is Git's way of putting a forked history back together again. The git merge command lets you take the independent lines of development created by git branch and integrate them into a single branch.
-  - Example ![git status](https://cdn-media-1.freecodecamp.org/images/VonhijTBQgjwtRXz31wLzF7iWDnDFk2o8EWi)
+master
 - **Checkout**
   - Definition: Updates files in the working tree to match the version in the index or the specified tree. If no pathspec was given, git checkout will also update HEAD to set the specified branch as the current branch.
   - Example ![git status](https://www.git-tower.com/learn/media/pages/git/faq/detached-head-when-checkout-commit/-246760908-1599575010/01-checkout-branch-not-commit.png)

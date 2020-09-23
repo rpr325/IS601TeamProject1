@@ -6,11 +6,11 @@ Project Team
 - Corey Williams
 - Roberto Rutherford
 
-[changelog](http://example.com)
+[changelog](https://github.com/rpr325/IS601TeamProject1/blob/master/changelog.md)
 
 ## Project Navigation
-I. [Description](http://example.com)
+I. [Description](https://github.com/rpr325/IS601TeamProject1/blob/master/description.md)
 
-II. [GitFlow](http://example.com)
+II. [GitFlow](https://github.com/rpr325/IS601TeamProject1/blob/master/gitflow.md)
 
-III. [Git Commands & Terminology](http://example.com)
+III. [Git Commands & Terminology](https://github.com/rpr325/IS601TeamProject1/blob/master/commands.md)
