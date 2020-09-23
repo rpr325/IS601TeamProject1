@@ -28,7 +28,7 @@
   - Example ![git status](https://miro.medium.com/max/600/1*SKR0Zz4S0M_0Rp-aPsZw0Q.png)
 - **Remote Add / Remove / Show**
   - Definition: The "add" command marks changes to be included in the next commit. / Git rm is used to remove a file from a Git repository. It is a convenience method that combines the effect of the default shell rm command with git add. / git-show is a command line utility that is used to view expanded details on Git objects such as blobs, trees, tags, and commits.
-- **Status**
+- **Status** 
   - Definition: The git status command displays the state of the working directory and the staging area. It lets you see which changes have been staged, which haven’t, and which files aren’t being tracked by Git.
   - Example ![git status](https://miro.medium.com/max/1668/1*zLxE3Deuc2ePubedcXvlnQ.png)
 - **Master Branch**
