@@ -10,7 +10,7 @@
   - Example ![git status](https://www.toolsqa.com/wp-content/gallery/git/1_Pull-Request.png)
 - **Branch**
   - Definition: A branch is essentially is a unique set of code changes with a unique name. Each repository can have one or more branches. The main branch is where all changes eventually get merged back into, and is called master.
-  - Example ![git status]()
+  - Example ![git status](https://miro.medium.com/max/823/1*uUpzVOpdFw5V-tJ_YvgFmA.png)
 - **Commit**
   - Definition: A commit, or "revision", is an individual change to a file (or set of files). It's like when you save a file, except with Git, every time you save it creates a unique ID (a.k.a. the "SHA" or "hash") that allows you to keep record of what changes we're made and by whom.
   - Example ![git status](https://danielmiessler.com/images/git_branch_new_master.png)
