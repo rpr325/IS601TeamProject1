@@ -13,4 +13,4 @@ I. [Description](https://github.com/rpr325/IS601TeamProject1/blob/master/descrip
 
 II. [GitFlow](https://github.com/rpr325/IS601TeamProject1/blob/master/gitflow.md)
 
-III. [Git Commands & Terminology](http://example.com)
+III. [Git Commands & Terminology](https://github.com/rpr325/IS601TeamProject1/blob/master/commands.md)
