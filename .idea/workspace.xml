@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c41f5003-0974-4e62-8452-47e95a483d6d" name="Default Changelist" comment="writing in sources">
+    <list default="true" id="c41f5003-0974-4e62-8452-47e95a483d6d" name="Default Changelist" comment="cleaning up description">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/description.md" beforeDir="false" afterPath="$PROJECT_DIR$/description.md" afterDir="false" />
     </list>
@@ -54,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600810097141</updated>
-      <workItem from="1600810098361" duration="9226000" />
+      <workItem from="1600810098361" duration="10231000" />
     </task>
     <task id="LOCAL-00001" summary="writing the definition of a repo">
       <created>1600810551364</created>
@@ -126,7 +126,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600832907656</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="feature: writing in sources">
+      <created>1600833677930</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1600833677930</updated>
+    </task>
+    <task id="LOCAL-00012" summary="cleaning up description">
+      <created>1600833834250</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1600833834250</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,7 +167,9 @@
     <MESSAGE value="setting up examples" />
     <MESSAGE value="writing in description" />
     <MESSAGE value="writing in sources" />
-    <option name="LAST_COMMIT_MESSAGE" value="writing in sources" />
+    <MESSAGE value="feature: writing in sources" />
+    <MESSAGE value="cleaning up description" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleaning up description" />
   </component>
   <component name="WindowStateProjectService">
     <state x="241" y="92" key="Vcs.Push.Dialog.v2" timestamp="1600827699767">

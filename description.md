@@ -1,5 +1,5 @@
 # Project Description
-Collaborative tools like Git, Docker, automated testing are assets to organizations, because they allow for continuous remote productivity.
+Collaborative tools like Git, Docker, automated testing are assets to organizations, because they allow for continuous remote productivity. Reproducibility not only facilitates peer review, but ensures the model, application or analysis you build can run without friction which makes your deliverables more robust and withstand the test of time. 
 ## Git
 Git is the most commonly used version control system. Git tracks the changes you make to files, so you have a record of what has been done, and you can revert to specific versions should you ever need to. Git also makes collaboration easier, allowing changes by multiple people to all be merged into one source. 
 ## Docker
@@ -24,3 +24,4 @@ Atlassian. (n.d.). Gitflow Workflow: Atlassian Git Tutorial. Retrieved September
 Atlassian. (n.d.). Git Remote: Atlassian Git Tutorial. Retrieved September 23, 2020, from https://www.atlassian.com/git/tutorials/syncing
 Book. (n.d.). Retrieved September 23, 2020, from https://git-scm.com/book/en/v2/Getting-Started-What-is-Git
 Gitglossary Documentation. (n.d.). Retrieved September 23, 2020, from https://git-scm.com/docs/gitglossary
+Husain, H. (2020, August 26). How Docker Can Help You Become A More Effective Data Scientist. Retrieved September 23, 2020, from https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5
