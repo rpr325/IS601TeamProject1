@@ -9,7 +9,7 @@ Project Team
 [changelog](https://github.com/rpr325/IS601TeamProject1/blob/master/changelog.md)
 
 ## Project Navigation
-I. [Description](http://example.com)
+I. [Description](https://github.com/rpr325/IS601TeamProject1/blob/master/description.md)
 
 II. [GitFlow](http://example.com)
 
