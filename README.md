@@ -11,6 +11,6 @@ Project Team
 ## Project Navigation
 I. [Description](https://github.com/rpr325/IS601TeamProject1/blob/master/description.md)
 
-II. [GitFlow](http://example.com)
+II. [GitFlow](https://github.com/rpr325/IS601TeamProject1/blob/master/gitflow.md)
 
 III. [Git Commands & Terminology](http://example.com)
